@@ -25,7 +25,6 @@
 </p>
 
 <p align="center">
-  <a href="#-installation">Installation</a> &bull;
   <a href="#-features">Features</a> &bull;
   <a href="#-quick-start">Quick Start</a> &bull;
   <a href="#-building-from-source">Build</a> &bull;
